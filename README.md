@@ -6,20 +6,20 @@ Este projeto consiste em uma aplicação de web scraping que coleta informaçõe
 
 - **Possuir uma conta Google**
 - **Acessar o Google Colab**  
-##  link: [https://colab.google/](https://colab.research.google.com/drive/1huAnkuhvSEa-oIfiFmi2vpJ1yA1Cb2wT?usp=sharing)
+  link: [https://colab.google/](https://colab.research.google.com/drive/1huAnkuhvSEa-oIfiFmi2vpJ1yA1Cb2wT?usp=sharing)
 
-### Configurando Inteligencia Artificial GemIA
+## Configurando Inteligencia Artificial GemIA
 
-## Passo 1 - Clique na chave no canto esquerdo   
+### Passo 1 - Clique na chave no canto esquerdo   
 ![Passo 1](/src/img/1.png)
 
-## Passo 2 - Clique em adicionar novo segredo  
+### Passo 2 - Clique em adicionar novo segredo  
 ![Passo 2](/src/img/11.png)  
 
-## Passo 3 - Insira: nome "API_KEY_GEMAI", valor "AIzaSyDDhRGiIErRIey3NyP09O-IYyu6P9EzETM" e ative a checkbox  
+### Passo 3 - Insira: nome "API_KEY_GEMAI", valor "AIzaSyDDhRGiIErRIey3NyP09O-IYyu6P9EzETM" e ative a checkbox  
 ![Passo 3](/src/img/111.png)  
 
-## Passo 4 - Feche a aba de configuração de segredos  
+### Passo 4 - Feche a aba de configuração de segredos  
 ![Passo 4](/src/img/1111.png)  
 
 
