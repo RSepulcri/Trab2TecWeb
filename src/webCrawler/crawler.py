@@ -91,7 +91,6 @@ def get_imovel_data(url, driver):
 
     #Seleciona divs dos anuncios (cards)
     divs = outer_div.find_all("div", {"data-position": True})
-    print(divs)
 
 
     #Array p/ guardar os dados
