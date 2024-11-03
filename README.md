@@ -22,6 +22,8 @@ Este projeto consiste em uma aplicação de web scraping que coleta informaçõe
 ### Passo 4 - Feche a aba de configuração de segredos  
 ![Passo 4](/src/img/1111.png)  
 
+Pronto, agora a parte de inteligencia artificial está configurada!
+
 
 
 
