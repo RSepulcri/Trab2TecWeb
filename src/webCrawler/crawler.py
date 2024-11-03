@@ -115,6 +115,10 @@ def get_imovel_data(url, driver):
             # Additional Costs (Cond. R$ 300 | IPTU R$ 26)
             additional_costs = listing.find("div", {"data-cy": "rp-cardProperty-price-txt"}).find_all("p")[1].get_text(strip=True)
 
+            # Primeiro <a> com href, que deverá ser o link
+            url_element = listing.find("a", href=True)  
+            url = url_element['href'] if url_element else None
+
             listings.append({
                 "title": title,
                 "address": address,
@@ -122,6 +126,7 @@ def get_imovel_data(url, driver):
                 "bathroom_quantity": bathroom_quantity,
                 "price": price,
                 "additional_costs": additional_costs,
+                "url": url
             })
         except AttributeError as e:
             print(f"Erro ao processar um imóvel: {e}")
