@@ -1,24 +1,16 @@
-# Trab2TecWeb
+# Projeto Crawler em Python
 
-//criamos só pra mandar pro git e aproveitar a estrutura padrão das pastas
-//padrao utilizacao tags para subir atts pro github:
-//[add]adicionar [fix]resolver bug 
+Este projeto consiste em uma aplicação de web scraping que coleta informações de imóveis disponíveis para aluguel no site Zap Imóveis. A aplicação também utiliza inteligência artificial através da API Gemini para responder perguntas sobre os dados coletados.
 
-//caso de erro no vs code, problema de usuario e email:
-//$ git config --global user.name "Fulano de Tal"
-//$ git config --global user.email fulanodetal@exemplo.br
+## Pré-requisitos
 
-//sempre crie um ambiente virtual para rodar o projeto
-//volte pro repositorio fora da pasta do projeto:
-//python -m venv "nome do projeto(sem as aspas)" (cria o ambiente virtual pra rodar o projeto)
+Antes de executar a aplicação, você precisa configurar uma chave de API no Google Colab. 
 
-//para instalar as ferramentas que iremos utilizar
-// vs4= beatfulsoup; comando: pip install beautifulsoup4 scrapy requests
+### Configurando a Chave da API
 
-//mostra todos os pacotes instalados e suas respectivas versoes:
-//pip freeze > requirements.txt
-
-//deactivate.bat (encerra o ambiente virtual atual)
-
-//
-//pip install -r requirements.txt (precisa estar presente dentro do diretorio que está o requirement.txt)
+1. Abra seu notebook no Google Colab.
+2. No menu superior, clique em `Ambiente de Execução` > `Executar tudo`.
+3. Execute o seguinte comando para definir sua chave de API:
+   ```python
+   import google.colab.userdata as userdata
+   userdata.set('API_KEY_GEMAI', 'AIzaSyDDhRGiIErRIey3NyP09O')
