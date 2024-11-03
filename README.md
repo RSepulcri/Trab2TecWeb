@@ -10,16 +10,16 @@ Este projeto consiste em uma aplicação de web scraping que coleta informaçõe
 
 ### Configurando Inteligencia Artificial GemIA
 
-## Passo 1  
+## Passo 1 - Clique na chave no canto esquerdo   
 ![Passo 1](/src/img/1.png)
 
-## Passo 2  
+## Passo 2 - Clique em adicionar novo segredo  
 ![Passo 2](/src/img/11.png)  
 
-## Passo 3  
+## Passo 3 - Insira: nome "API_KEY_GEMAI", valor "AIzaSyDDhRGiIErRIey3NyP09O-IYyu6P9EzETM" e ative a checkbox  
 ![Passo 3](/src/img/111.png)  
 
-## Passo 4  
+## Passo 4 - Feche a aba de configuração de segredos  
 ![Passo 4](/src/img/1111.png)  
 
 
