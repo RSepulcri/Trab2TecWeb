@@ -22,7 +22,7 @@ Este projeto consiste em uma aplicação de web scraping que coleta informaçõe
 ### Passo 4 - Feche a aba de configuração de segredos  
 ![Passo 4](/src/img/1111.png)  
 
-Pronto, agora a parte de inteligencia artificial está configurada!  
+Pronto, agora a parte de inteligencia artificial está configurada!          
   
   
   
@@ -63,7 +63,7 @@ O projeto é organizado por blocos, cada um deles é responsável por uma parte,
 ### Passo 9 - Ative a função para printar as informações e baixar o arquivo .csv contendo as informações dos imóveis encontrados  
 ![Passo 4](/src/img/222222222.png)  
 
-### Passo 10 [opcional] - Ative a função para utilizar a IA para responder perguntas referentes aos dados encontrados pelo sistema  
+### Passo 10 [opcional] - Ative a função para a IA responder perguntas referentes aos dados encontrados pela aplicação 
 ![Passo 4](/src/img/2222222222.png)  
 ![Passo 4](/src/img/22222222222222.png)  
 
