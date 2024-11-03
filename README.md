@@ -4,7 +4,9 @@ Este projeto consiste em uma aplicação de web scraping que coleta informaçõe
 
 ## Pré-requisitos
 
-Antes de executar a aplicação, você precisa configurar uma chave de API no Google Colab. 
+- **Possuir uma conta Google**
+- **Acessar o Google Colab**
+-    **link:**https://colab.google/
 
 ### Configurando a Chave da API
 
