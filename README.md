@@ -8,7 +8,11 @@ Este projeto consiste em uma aplicação de web scraping que coleta informaçõe
 - **Acessar o Google Colab**  
     link: [https://colab.google/](https://colab.research.google.com/drive/1huAnkuhvSEa-oIfiFmi2vpJ1yA1Cb2wT?usp=sharing)
 
-### Configurando a Chave da API
+### Configurando Inteligencia Artificial GemIA
+![Passo 1]:(cd:/src/img/1)
+
+
+#### Configurando a Chave da API
 
 1. Abra seu notebook no Google Colab.
 2. No menu superior, clique em `Ambiente de Execução` > `Executar tudo`.
