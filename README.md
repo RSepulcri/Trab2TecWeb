@@ -59,3 +59,4 @@ Pronto, agora a parte de inteligencia artificial está configurada!
 ### Passo 5 - Execute o crawler e aguarde a criação do arquivo .csv
 
 ![Passo 4](/src/img/33333.png)
+![Passo 4](/src/img/333333.png)
