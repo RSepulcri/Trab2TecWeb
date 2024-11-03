@@ -10,40 +10,15 @@ Este projeto consiste em uma aplicação de web scraping que coleta informaçõe
 
 ## Configurando Inteligencia Artificial GemIA
 
-### Passo 1 - Clique na chave no canto esquerdo   
+### Passo 1 - Clique na chave no canto esquerdo
+
 ![Passo 1](/src/img/1.png)
 
-### Passo 2 - Clique em adicionar novo segredo  
-![Passo 2](/src/img/11.png)  
+### Passo 2 - Clique em adicionar novo segredo
 
-### Passo 3 - Insira: nome "API_KEY_GEMAI", valor "AIzaSyDDhRGiIErRIey3NyP09O-IYyu6P9EzETM" e ative a checkbox  
-![Passo 3](/src/img/111.png)  
+![Passo 2](/src/img/11.png)
 
-### Passo 4 - Feche a aba de configuração de segredos  
-![Passo 4](/src/img/1111.png)  
-
-Pronto, agora a parte de inteligencia artificial está configurada!          
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-## Utilizando a aplicação
-O projeto é organizado por blocos, cada um deles é responsável por uma parte, nesta etapa vamos "rodar" cada peça deste quebra cabeça para utilizar a aplicação
-
-### Passo 1 - Clique em "play" para instalar todas as bibliotecas utilizadas no projeto (necessário apenas na primeira vez da aplicação)  
-![Passo 1](/src/img/2.png)
-
-### Passo 2 - Clique para importar os serviços que vamos utilizar das bibliotecas instaladas (necessário apenas na primeira vez da aplicação)  
-![Passo 2](/src/img/22.png)  
-
-### Passo 3 - Play para configurar as chaves do serviço AWS que utilizamos na aplicação  
-![Passo 3](/src/img/222.png)  
+### Passo 3 - Insira: nome "API_KEY_GEMAI", valor "AIzaSyDDhRGiIErRIey3NyP09O-IYyu6P9EzETM" e ative a checkbox
 
 ### Passo 4 - Play para configurar o simulador de navegador web  
 ![Passo 4](/src/img/2222.png)  
@@ -66,4 +41,5 @@ O projeto é organizado por blocos, cada um deles é responsável por uma parte,
 ### Passo 10 [opcional] - Ative a função para a IA responder perguntas referentes aos dados encontrados pela aplicação 
 ![Passo 4](/src/img/2222222222.png)  
 ![Passo 4](/src/img/22222222222222.png)  
+
 
