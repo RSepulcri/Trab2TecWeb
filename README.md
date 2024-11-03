@@ -6,7 +6,7 @@ Este projeto consiste em uma aplicação de web scraping que coleta informaçõe
 
 - **Possuir uma conta Google**
 - **Acessar o Google Colab**  
-    link: [https://colab.google/](https://colab.research.google.com/drive/1huAnkuhvSEa-oIfiFmi2vpJ1yA1Cb2wT?usp=sharing)
+##  link: [https://colab.google/](https://colab.research.google.com/drive/1huAnkuhvSEa-oIfiFmi2vpJ1yA1Cb2wT?usp=sharing)
 
 ### Configurando Inteligencia Artificial GemIA
 
