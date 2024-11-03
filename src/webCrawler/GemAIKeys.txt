@@ -1,0 +1,3 @@
+#remova as aspas para inserir a key no colab
+name: 'API_KEY_GEMAI'
+valor: 'AIzaSyDDhRGiIErRIey3NyP09O-IYyu6P9EzETM'
