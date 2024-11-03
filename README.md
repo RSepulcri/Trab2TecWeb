@@ -65,5 +65,5 @@ O projeto é organizado por blocos, cada um deles é responsável por uma parte,
 
 ### Passo 10 [opcional] - Ative a função para utilizar a IA para responder perguntas referentes aos dados encontrados pelo sistema  
 ![Passo 4](/src/img/2222222222.png)  
-![Passo 4](/src/img/22222222222.png)  
+![Passo 4](/src/img/22222222222222.png)  
 
