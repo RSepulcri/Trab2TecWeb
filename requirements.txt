@@ -4,3 +4,4 @@ pip install pandas
 pip install selenium
 pip install -U google-generativeai
 pip install ipywidgets
+pip install python-dotenv
