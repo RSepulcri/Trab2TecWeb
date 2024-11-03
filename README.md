@@ -24,6 +24,15 @@ Este projeto consiste em uma aplicação de web scraping que coleta informaçõe
 
 Pronto, agora a parte de inteligencia artificial está configurada!
 
+
+
+
+
+
+
+
+
+
 ## Utilizando a aplicação
 O projeto é organizado por blocos, cada um deles é responsável por uma parte, nesta etapa vamos "rodar" cada peça deste quebra cabeça para utilizar a aplicação
 
